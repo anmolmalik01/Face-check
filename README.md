@@ -27,24 +27,24 @@ python3 main.py
 ## Instructions
 
 🔷 Face Detector
-◾ Image: Select an image and detect
-◾ Video: Select a video and detect faces in that video
-◾ Live Video: opens webcam and detects faces
-
-
-🔷 Face Recognizer 
+◾ Image: Select an image and detect <br>
+◾ Video: Select a video and detect faces in that video<br>
+◾ Live Video: opens webcam and detects faces<br>
+<br>
+<br>
+🔷 Face Recognizer<br> 
 
 ------------ How it runs ------------
-◾ Add images in the images folder. Name the folder as the label( which will be shown under the image )
-◾ Add the person to the list **Person name should be same as folder name including uppercase.
-◾ Train the model **Model is pre-trained for the person pre available
-◾ Pick an image to predict
-◾ See the prediction
-
-
-🔷 Instructions
-◾ Press q twice to quit any program otherwise it will be stuck
-◾ You can split images into training and test set
+◾ Add images in the images folder. Name the folder as the label( which will be shown under the image )<br>
+◾ Add the person to the list **Person name should be same as folder name including uppercase.<br>
+◾ Train the model **Model is pre-trained for the person pre available<br>
+◾ Pick an image to predict<br>
+◾ See the prediction<br>
+<br>
+<br>
+🔷 Instructions<br>
+◾ Press q twice to quit any program otherwise it will be stuck.<br>
+◾ You can split images into training and test set.<br>
 
 
 ## Author
