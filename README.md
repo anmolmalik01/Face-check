@@ -51,8 +51,8 @@ python3 main.py
 👤 **Anmol**
 
 * Twitter: [@anmolmalik01](https://twitter.com/anmolmalik01)
-* Github: [@anmolmalik01](https://github.com/anmolmalik)
-* Instagram: [@anmolmalik01](https://instagram.com/anmolmalik)
+* Github: [@anmolmalik01](https://github.com/anmolmalik01)
+* Instagram: [@anmolmalik01](https://www.instagram.com/anmolmalik01/)
 
 ## 🤝 Contributing
 
