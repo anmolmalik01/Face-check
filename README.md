@@ -34,8 +34,7 @@ python3 main.py
 ◽ Image: Select an image and detect <br>
 ◽ Video: Select a video and detect faces in that video<br>
 ◽ Live Video: opens webcam and detects faces
-
-
+<br>
 <br>
 🔷 <b>Face Recognizer</b><br>
 ------------ How it runs ------------<br> 
@@ -44,14 +43,12 @@ python3 main.py
 ◽ Train the model **Model is pre-trained for the person pre available<br>
 ◽ Pick an image to predict<br>
 ◽ See the prediction
-
-
+<br>
 <br>
 🔷 <b>Extras</b><br>
 ◽ Press q twice to quit any program otherwise it will be stuck.<br>
 ◽ You can split images into training and test set.
-
-
+<br>
 <br>
 🔷 <b>Dependencies</b><br>
 ◽ OpenCV<br>
