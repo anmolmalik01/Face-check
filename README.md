@@ -23,15 +23,18 @@ git clone https://github.com/anmolmalik01/Face-check.git
 ```sh
 python3 main.py
 ```
+## Demo
 
-## Instructions<br>
+<img alt="Demo" src="./images/img.png" />
+
+
+## Instructions
 
 🔷 Face Detector<br>
 ◽ Image: Select an image and detect <br>
 ◽ Video: Select a video and detect faces in that video<br>
-◽ Live Video: opens webcam and detects faces<br>
-<br>
-<br>
+◽ Live Video: opens webcam and detects faces
+
 
 🔷 Face Recognizer<br>
 ------------ How it runs ------------<br> 
@@ -39,15 +42,13 @@ python3 main.py
 ◽ Add the person to the list **Person name should be same as folder name including uppercase.<br>
 ◽ Train the model **Model is pre-trained for the person pre available<br>
 ◽ Pick an image to predict<br>
-◽ See the prediction<br>
-<br>
-<br>
+◽ See the prediction
 
-🔷 Instructions<br>
+
+🔷 Extras<br>
 ◽ Press q twice to quit any program otherwise it will be stuck.<br>
-◽ You can split images into training and test set.<br>
-<br>
-<br>
+◽ You can split images into training and test set.
+
 
 🔷 Dependencies<br>
 ◽ OpenCV<br>
@@ -56,7 +57,6 @@ python3 main.py
 ◽ PILLOW<br>
 ◽ scikit-learn<br>
 
- <img alt="Demo" src="./images/img.png" />
 
 ## Author
 
