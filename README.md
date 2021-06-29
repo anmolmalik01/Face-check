@@ -24,7 +24,7 @@ git clone https://github.com/anmolmalik01/Face-check.git
 python3 main.py
 ```
 
-## Instructions
+## Instructions<br>
 
 🔷 Face Detector<br>
 ◽ Image: Select an image and detect <br>
@@ -32,6 +32,7 @@ python3 main.py
 ◽ Live Video: opens webcam and detects faces<br>
 <br>
 <br>
+
 🔷 Face Recognizer<br>
 ------------ How it runs ------------<br> 
 ◽ Add images in the images folder. Name the folder as the label( which will be shown under the image )<br>
@@ -41,17 +42,27 @@ python3 main.py
 ◽ See the prediction<br>
 <br>
 <br>
+
 🔷 Instructions<br>
 ◽ Press q twice to quit any program otherwise it will be stuck.<br>
 ◽ You can split images into training and test set.<br>
+<br>
+<br>
 
+🔷 Dependencies<br>
+◽ OpenCV<br>
+◽ numpy<br>
+◽ Tkinter<br>
+◽ PILLOW<br>
+◽ scikit-learn<br>
+
+ <img alt="Demo" src="./images/img.png" />
 
 ## Author
 
 👤 **Anmol**
 
 * Twitter: [@anmolmalik01](https://twitter.com/anmolmalik01)
-* Github: [@anmolmalik01](https://github.com/anmolmalik01)
 * Instagram: [@anmolmalik01](https://www.instagram.com/anmolmalik01/)
 
 ## 🤝 Contributing

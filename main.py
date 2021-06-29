@@ -3,7 +3,6 @@ from tkinter import *
 from tkinter import filedialog
 import cv2 as cv
 from PIL import Image, ImageTk
-import webbrowser
 
 # ======================================= importing face detector =======================================
 import face_detector_image as fdi
